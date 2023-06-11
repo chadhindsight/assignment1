@@ -19,7 +19,8 @@ body {
   height: 100%;
 }
 
-#more-info {
+.info {
+  margin-bottom: 60%;
 }
 
 h2 {
@@ -43,9 +44,14 @@ footer {
   background-color: #333;
   padding: 50px;
 }
+
 /* footer text */
 footer p {
   color: #888;
   text-align: center;
   margin-top: 20px;
+}
+
+/*  */
+.other-footer {
 }
